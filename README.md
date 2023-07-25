@@ -1,0 +1,1 @@
+[![Kiichi Tachibana's GitHub stats](https://github-readme-stats-iota-steel-47.vercel.app/api?username=ossan-engineer&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
