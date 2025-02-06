@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Kiichi Tachibana's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 19, Total Commits in 2025 : 19, Total PRs: 1156, Total Issues: 430, Contributed to (last year): 11</desc>
+        <desc id="descId">Total Stars Earned: 19, Total Commits in 2025 : 19, Total PRs: 1158, Total Issues: 430, Contributed to (last year): 11</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 67.94926728436924;
+        stroke-dashoffset: 67.94710764874557;
       }
     }
   
