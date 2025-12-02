@@ -9,4 +9,4 @@
 - Docker / pnpm
 
 ## Links
-- Qiita: https://qiita.com/ossan_engineer
+- Qiita: https://qiita.com/ossan-engineer
