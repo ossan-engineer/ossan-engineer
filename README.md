@@ -7,8 +7,6 @@ B2B の管理画面開発・大規模プロジェクトでのパフォーマン�
 
 [![GitHub Stats](https://github-readme-stats-99ejj06al-ossan-engineer.vercel.app/api?username=ossan-engineer&show_icons=true&count_private=true)](https://github.com/ossan-engineer)
 
----
-
 ## 🚀 Tech Stack
 ### **Frontend**
 - Next.js (App Router)
@@ -23,14 +21,10 @@ B2B の管理画面開発・大規模プロジェクトでのパフォーマン�
 - pnpm
 - GraphQL Schema / API 実装
 
----
-
 ## ✍️ Articles (技術記事)
 技術記事の翻訳を Qiita で発信しています。
 
 - **Qiita:** https://qiita.com/ossan-engineer
-
----
 
 ## 📌 About Me
 - フリーランス歴 6年  
