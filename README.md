@@ -12,7 +12,7 @@ B2B の管理画面開発・大規模プロジェクトでのパフォーマン�
 - Next.js (App Router)
 - TypeScript / JavaScript
 - React
-- MUI / shadcn/ui
+- MUI
 - URQL（GraphQL client）
 
 ### **Backend / Others**
