@@ -21,12 +21,7 @@ B2B の管理画面開発・大規模プロジェクトでのパフォーマン�
 - pnpm
 - GraphQL Schema / API 実装
 
-## ✍️ Articles (技術記事)
-技術記事の翻訳を Qiita で発信しています。
-
-- **Qiita:** https://qiita.com/ossan-engineer
-
-## 📌 About Me
-- フリーランス歴 6年  
-- 大規模 B2B 管理画面の UI 実装・改善が専門  
-- 趣味：筋トレ、バスケ、サウナ
+## 🔗 Links
+- [Findy](https://findy-code.io/skills-share/d3NPuo_SExo_z)
+- [Qiita](https://qiita.com/ossan-engineer)  
+- [X](https://x.com/ossan_engineer)
