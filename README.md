@@ -25,4 +25,3 @@ B2B の管理画面開発・大規模プロジェクトでのパフォーマン�
 - [Findy](https://findy-code.io/skills-share/d3NPuo_SExo_z)
 - [LAPRAS](https://lapras.com/public/ossan-engineer)
 - [Qiita](https://qiita.com/ossan-engineer)  
-- [X](https://x.com/ossan_engineer)
