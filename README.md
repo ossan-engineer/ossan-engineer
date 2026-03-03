@@ -1,9 +1,9 @@
 <!-- Header -->
 # Kiichi Tachibana (ossan-engineer)
 
-フリーランスフロントエンドエンジニア。  
-Next.js / TypeScript を軸に、App Router・URQL・GraphQL・MUI周辺の開発を中心に活動しています。  
-B2B の管理画面開発・大規模プロジェクトでのパフォーマンス改善・UI/UX 改修が得意分野。
+自律移動ロボット（フィジカルAI）の運用システム開発に従事するフリーランスフロントエンドエンジニア。  
+Next.js App Router × TypeScript を軸に、実世界と接続するBtoB管理画面の設計・実装を担当。  
+リアルタイム性・パフォーマンス最適化・非機能要件を踏まえたUIアーキテクチャ設計を強みとしています。
 
 [![GitHub Stats](https://github-readme-stats-99ejj06al-ossan-engineer.vercel.app/api?username=ossan-engineer&show_icons=true&count_private=true)](https://github.com/ossan-engineer)
 
